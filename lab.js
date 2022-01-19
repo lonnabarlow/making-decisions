@@ -42,6 +42,11 @@ if(amysAge > brittanisAge){
 */
 
 //CODE HERE
+if(amysBirthYear === brittanisBirthYear){
+  console.log("Amy and Brittani were born in the same year");
+}else{
+  console.log("Amy and Brittani were not born in the same year");
+}
 
 
 ////////// PROBLEM 4 //////////
